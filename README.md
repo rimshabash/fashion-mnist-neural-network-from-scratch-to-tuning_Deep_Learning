@@ -516,34 +516,6 @@ All plots are generated directly from the experimental results in the notebook.
 
 ---
 
-# 📁 Recommended Repository Structure
-
-```text
-Building-Breaking-Fixing-Neural-Network/
-│
-├── README.md
-│
-├── Building_Breaking_Fixing_Neural_Network.ipynb
-│
-├── Results_Summary.docx
-│
-├── plots/
-│   ├── part1_training_loss.png
-│   ├── part2_activation_comparison.png
-│   ├── part3_loss_comparison.png
-│   ├── part4_optimizer_comparison.png
-│   ├── part5_overfitting.png
-│   ├── part6_regularization.png
-│   └── part7_confusion_matrix.png
-│
-└── data/
-    └── README.md
-```
-
-Large dataset files do not need to be committed to GitHub. Dataset paths can be configured in the notebook.
-
----
-
 # 🚀 Reproduction Instructions
 
 ## 1. Clone the Repository
