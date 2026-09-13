@@ -549,7 +549,7 @@ Large dataset files do not need to be committed to GitHub. Dataset paths can be 
 ## 1. Clone the Repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-LINK>
+git clone https://github.com/rimshabash/fashion-mnist-neural-network-from-scratch-to-tuning_Deep_Learning
 cd Building-Breaking-Fixing-Neural-Network
 ```
 
